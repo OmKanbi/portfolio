@@ -372,4 +372,7 @@ footer span {
     .about-skills-wrapper {
         margin: 4.5rem 0;
     }
+    .social-wrapper{
+        gap: 2rem;
+    }
 }
